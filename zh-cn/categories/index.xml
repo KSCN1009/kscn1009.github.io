@@ -6,12 +6,14 @@
         <description>Recent content in Categories on 演示站点</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
+        <managingEditor>isvzKOH@163.com (isvzKOH)</managingEditor>
+        <webMaster>isvzKOH@163.com (isvzKOH)</webMaster>
         <copyright>Example Person</copyright>
         <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Test</title>
         <link>http://localhost:1313/zh-cn/categories/test/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-        
+        <author>isvzKOH@163.com (isvzKOH)</author>
         <guid>http://localhost:1313/zh-cn/categories/test/</guid>
         <description></description>
         </item>
@@ -19,7 +21,7 @@
         <title>测试</title>
         <link>http://localhost:1313/zh-cn/categories/%E6%B5%8B%E8%AF%95/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-        
+        <author>isvzKOH@163.com (isvzKOH)</author>
         <guid>http://localhost:1313/zh-cn/categories/%E6%B5%8B%E8%AF%95/</guid>
         <description></description>
         </item>
